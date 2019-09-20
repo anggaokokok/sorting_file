@@ -1,0 +1,11 @@
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\bin\Debug\netcoreapp2.2\myApp.deps.json
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\bin\Debug\netcoreapp2.2\myApp.runtimeconfig.json
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\bin\Debug\netcoreapp2.2\myApp.runtimeconfig.dev.json
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\bin\Debug\netcoreapp2.2\myApp.dll
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\bin\Debug\netcoreapp2.2\myApp.pdb
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\obj\Debug\netcoreapp2.2\myApp.csprojAssemblyReference.cache
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\obj\Debug\netcoreapp2.2\myApp.csproj.CoreCompileInputs.cache
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfoInputs.cache
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\obj\Debug\netcoreapp2.2\myApp.AssemblyInfo.cs
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\obj\Debug\netcoreapp2.2\myApp.dll
+c:\Users\IT-YUSUF\Desktop\New folder\myApp\obj\Debug\netcoreapp2.2\myApp.pdb
